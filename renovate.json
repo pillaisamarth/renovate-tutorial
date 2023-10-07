@@ -6,8 +6,8 @@
   "prHourlyLimit" : 3,
   "packageRules": [
     {
-      "matchUpdateTypes" : ["major"],
-      "dependencyDashboardApproval" : true
+      "matchUpdateTypes": ["major"],
+      "dependencyDashboardApproval": true
     }
   ]
 }
